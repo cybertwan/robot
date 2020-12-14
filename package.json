@@ -1,0 +1,65 @@
+{
+  "name": "DGC-ChatBotV3",
+  "version": "2.0.0",
+  "description": "<b>DGC-ChatBotV3</b> Adalah suatu bot yang direalisasikan dari suatu komunitas DeepGoreCreepypasta dan diprogram untuk respon tertentu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MRHRTZ",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.1.2",
+    "@open-wa/wa-decrypt": "^2.0.1",
+    "@vitalets/google-translate-api": "^4.0.0",
+    "axios": "^0.21.0",
+    "brainly-scraper": "^1.0.2",
+    "brainly-scraper-v2": "^1.1.0",
+    "chalk": "^4.1.0",
+    "download-file": "^0.1.5",
+    "emoji-regex": "^9.2.0",
+    "fs-extra": "^9.0.1",
+    "get-youtube-id": "^1.0.1",
+    "gifify": "^2.4.3",
+    "gify": "^0.2.0",
+    "google-it": "^1.5.4",
+    "got": "^11.8.0",
+    "image-to-base64": "^2.1.1",
+    "jsdom": "^16.4.0",
+    "moment-timezone": "^0.5.31",
+    "mysql": "^2.18.1",
+    "needle": "^2.5.2",
+    "nhentai-api": "^3.0.2",
+    "nhentai-js": "^4.0.0",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.1",
+    "node-gtts": "^2.0.2",
+    "performance-now": "^2.1.0",
+    "pm2": "^4.5.0",
+    "remove.bg": "^1.3.0",
+    "request": "^2.88.2",
+    "scraper-instagram": "^1.0.14",
+    "sharp": "^0.26.3",
+    "tiktok-scraper": "^1.3.6",
+    "util": "^0.12.3",
+    "version": "^0.1.2",
+    "video-url-link": "^0.1.4",
+    "youtube-v3-api": "^1.1.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRHRTZ/DGC-ChatBotV3"
+  },
+  "keywords": [
+    "DGC-ChatBotV3"
+  ],
+  "bugs": {
+    "url": "https://github.com/MRHRTZ/DGC-ChatBotV3/issues"
+  },
+  "homepage": "https://github.com/MRHRTZ/DGC-ChatBotV3#readme"
+}
